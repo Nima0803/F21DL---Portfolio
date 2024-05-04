@@ -9,8 +9,8 @@
 3. Lab 3: Selected Spotify dataset and applied Feature Reduction and PCA.
 4. Lab 4: Explored an image dataset called JMuBEN2 (Arabica coffee plantation leaves), applied pre-processing and normalization, trained a CNN model with 50 epochs and an SGD Classifier, and performed Evaluation Metrics on both models.
 5. Lab 5: Instead of using CNN and SGD Classifier on the previous dataset, different types of Naïve Bayes Classifiers were trained on the dataset, and Evaluation Metrics were recorded.
-6. Lab 7: Applied different clustering algorithms to detect optimal number of clusters.  
-7. Lab 11: Exploring effects of different CNN architecures on the JMuBEN2 dataset.
+6. Lab 7: Applied different clustering algorithms to detect the optimal number of clusters.  
+7. Lab 11: Exploring effects of different CNN architectures on the JMuBEN2 dataset.
    
 ### The CW Folder consists of 4 Parts:
 
