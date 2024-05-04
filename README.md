@@ -3,7 +3,7 @@
 ## This file explains the directories in this repository.
 
 # Overview: 
-### The Lab Folder consists of 5 Labs:
+### The Lab Folder consists of 7 Labs:
 1. Lab 1: Dataset Exploration on 3 datasets (Spotify Top Hit Playlist (2010-2022), Water Quality and Potability and MNIST).
 2. Lab 2: Data Exploration & Visualization on previous 3 datasets by generating graphs.
 3. Lab 3: Selected Spotify dataset and applied Feature Reduction and PCA.
