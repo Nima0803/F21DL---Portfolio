@@ -14,7 +14,7 @@
    
 ### The CW Folder consists of 4 Parts:
 
-All parts involves exploring different techniques on a subsect of the German Street Sign Recognition Dataset.
+All parts involve exploring different techniques on a subsect of the German Street Sign Recognition Dataset.
 1. Part 1: Data Visualization and Bayes Net
 2. Part 2: Clustering 
 3. Part 3: Decision Trees
